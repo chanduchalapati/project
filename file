@@ -1,2 +1,3 @@
+ls -a
 git log
 git config --list
