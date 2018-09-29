@@ -1,2 +1,4 @@
-apple
 orange
+cat file
+git log
+git config --list
